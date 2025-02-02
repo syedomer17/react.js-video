@@ -1,0 +1,36 @@
+what is React?
+
+Ans.React is a lab and it does't have Routing.
+
+In React we can make our custom Routes.
+
+single-page-Application (SPA):
+
+React will give you only the Components which the user wants.
+
+1.what are Components?
+
+Ans. A thing which can be reusable Ex:button,inputs all html tage.
+i.e(A thing which can be reused)
+
+2.how to make a web site in React?
+
+Ans. Make Components
+
+3.How can we see the difference between Components and html tage?
+
+Ans. We are see the difference by the tage name as in html all the tage's 
+are written in lowerCase but in Components the tage first letter must be a 
+Captial letter .
+
+Note Point:
+1. Always add self closing tage i.e(<></>)
+2. You can't write class directly in React you have to write class as className
+
+Most Importent Note Point for Components:
+1.for makeing a Components first you have to create a folder Name as Components in that you can 
+make n number of folder for your sub Components.
+2.For every sub Components you must create a file .
+
+what is props?
+Ans.how to pass data in Components is called props.In props we will fetch the data 
